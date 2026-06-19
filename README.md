@@ -10,4 +10,4 @@
     `cd MSSS`
 ## Usage
   Run the python script and enjoy MSSS
-    `python mc_check.py`
+    `python mc_check.py <TARGET-IP>`
