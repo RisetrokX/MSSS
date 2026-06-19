@@ -1,2 +1,13 @@
-# minecraft-server-status
-Shows minecraft server status
+# (M)inecraft (S)erver (S)tatus (S)hower ℹ️
+ - Shows players that are online
+ - Shows latency (ms)
+ - Shows servers version
+
+## Instalation guide:
+  1. Copy this repo
+    `git clone github.com/RisetrokX/MSSS.git`
+  2. Change directory to this repo
+    `cd MSSS`
+## Usage
+  Run the python script and enjoy MSSS
+    `python mc_check.py`
